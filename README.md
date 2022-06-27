@@ -28,4 +28,4 @@ else
 end
 ```
 
-This is an edited version of ![tgiann-skillbar](https://github.com/TGIANN/fivem-tgiann-skillbar)
+This is an edited version of [tgiann-skillbar](https://github.com/TGIANN/fivem-tgiann-skillbar)
